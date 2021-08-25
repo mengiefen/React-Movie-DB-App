@@ -7,5 +7,6 @@ function App() {
     </div>
   );
 }
+//This part is about react implementation!
 
 export default App;
