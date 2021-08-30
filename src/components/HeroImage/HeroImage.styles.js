@@ -1,4 +1,4 @@
-import styled from 'styled-components';
+import styled from "styled-components";
 
 export const Wrapper = styled.div`
   background: linear-gradient(
@@ -9,7 +9,7 @@ export const Wrapper = styled.div`
     url(${({ image }) => image}), var(--darkGrey);
   background-size: 100%, cover;
   background-position: center;
-  height: 600px;
+  height: 450px;
   position: relative;
   animation: animateHeroImage 1s;
 
